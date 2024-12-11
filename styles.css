@@ -179,7 +179,6 @@ p {
 .content-section-2 {
   flex-direction: column; 
   align-items: center;
-  /* height: 400px; */
   background-color: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
@@ -241,7 +240,7 @@ img {
 .content-section-3 {
   display: flex;
   align-items: center;
-  background-color: rgb(185, 185, 185);
+  background-color: rgb(211, 211, 211);
   padding: 80px;
   display: flex;
   justify-content: center;
@@ -249,7 +248,7 @@ img {
 
 .wrapper3 {
   display: flex;
-  width: 80%;
+  width: 90%;
   align-items: center;
   justify-content: center;
   margin-top: 32px;
